@@ -25,6 +25,7 @@ https://docs.sqlalchemy.org/en/14/core/engines.html#postgresql
 https://docs.sqlalchemy.org/en/14/core/engines.html
 
 SQLalchemy writing dataframe to table:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_sql.html
 https://stackoverflow.com/questions/23103962/how-to-write-dataframe-to-postgres-table
 https://www.py4u.net/discuss/181797
 
