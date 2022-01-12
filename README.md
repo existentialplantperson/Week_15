@@ -31,3 +31,4 @@ https://www.py4u.net/discuss/181797
 
 DDL:
 https://www.techopedia.com/definition/1175/data-definition-language-ddl
+https://docs.oracle.com/cd/B14117_01/server.101/b10759/statements_1001.htm
